@@ -1,0 +1,96 @@
+ul{
+    list-style-type:none;
+    list-style: none;
+     display: flex;
+    
+    }
+
+li{
+    list-style: none;
+}    
+
+
+nav{
+    display: flex;
+    
+}
+
+.pizza{
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+}
+
+.zdjecieglowne{
+    width: 100%;
+    height: auto;
+}
+
+.przerwa{
+    height: 50px;
+  
+}
+
+.naszaoferta{
+    background-image: url(slide-2.jpg);
+}
+
+.iconaoferty{
+    color: white;
+    font-size: 60px;
+}
+
+.tesktoferty{
+    color: white;
+}
+
+.select{
+    width: 200px;
+    background-color: rgb(48, 46, 46);
+    color: white;
+    height: 50px;
+    justify-content: center;
+   
+}
+
+.przycisk{
+    width: 100px;
+    background-color: rgb(48, 46, 46);
+    color: white;
+    height: 50px;
+    border: 1px solid rgb(48, 46, 46);
+}
+
+.przycisk:hover{
+    background-color: white;
+    transition: 1s;
+    color: gray;
+    border: 1px solid white;
+}
+
+.nazwa{
+    font-size: 20px;
+}
+
+.szary{
+    background-color: rgb(48, 46, 46);
+}
+
+.inputy{
+    width: 200px;
+    background-color: rgb(48, 46, 46);
+    height: 50px;
+    color: white;
+    border: 1px solid rgb(48, 46, 46);
+    
+    margin-top: 10px;
+    
+}
+
+.biale{
+    color: white;
+}
+
+.zielonaicona{
+    color: white;
+    font-size: 40px;
+}
