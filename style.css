@@ -86,11 +86,39 @@ nav{
     
 }
 
+.biale3{
+    color: red;
+    margin-top: 10px;
+    font-size: 13px;
+}
+
+
+
 .biale{
     color: white;
 }
-
+.biale2{
+    color: white;
+    
+   
+}
 .zielonaicona{
     color: white;
     font-size: 40px;
+}
+
+.textarea{
+    background-color: rgb(48, 46, 46);
+    width: 430px;
+    color: white;
+}
+
+.error{
+    overflow: hidden;
+    color: white;
+}
+
+.imie-error,  .nazwisko-error , .email-error , .numer-error {
+visibility: hidden;
+color: white;
 }
